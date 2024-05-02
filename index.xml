@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>欢迎光临！ on 我的画廊</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example-gallery.easonjan.top/</link>
     <description>Recent content in 欢迎光临！ on 我的画廊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>user@example.com (Your Name)</managingEditor>
     <webMaster>user@example.com (Your Name)</webMaster>
     <copyright>© 张三</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://example-gallery.easonjan.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>时尚与美</title>
-      <link>http://localhost:1313/fashion-beauty/</link>
+      <link>https://example-gallery.easonjan.top/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/fashion-beauty/</guid><media:content url="http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_207553_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example-gallery.easonjan.top/fashion-beauty/</guid><media:content url="https://example-gallery.easonjan.top/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_207553_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_207553_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;时尚与美是一种强大的自我表达形式。本分类通过街头时尚的启发性照片、护肤产品、前卫的编辑摄影等，记录了风格。&lt;/p&gt;
+          &lt;img src=&quot;https://example-gallery.easonjan.top/fashion-beauty/mina-rad-V94CguEmeos-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_207553_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;作品简介作品简介作品简介作品简介作品简介作品简介作品简介作品简介作品简介&lt;/p&gt;
         </description></item>
     <item>
       <title>自然风光</title>
-      <link>http://localhost:1313/nature/</link>
+      <link>https://example-gallery.easonjan.top/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/nature/</guid><media:content url="http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_811244_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example-gallery.easonjan.top/nature/</guid><media:content url="https://example-gallery.easonjan.top/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_811244_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_811244_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
-          &lt;p&gt;通过摄影，大自然之美可以被时间定格。这一类别庆祝我们这个星球和其他星球的魔力——从广阔的户外，到你自己后院的奇迹时刻。&lt;/p&gt;
+          &lt;img src=&quot;https://example-gallery.easonjan.top/nature/azzedine-rouichi-ZS_XuDZmxpM-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_811244_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;作品简介作品简介作品简介作品简介作品简介作品简介作品简介作品简介&lt;/p&gt;
         </description></item>
     <item>
       <title>猫咪</title>
-      <link>http://localhost:1313/animals/cats/</link>
+      <link>https://example-gallery.easonjan.top/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0800</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/animals/cats/</guid><media:content url="http://localhost:1313/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_264089_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example-gallery.easonjan.top/animals/cats/</guid><media:content url="https://example-gallery.easonjan.top/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_264089_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_264089_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example-gallery.easonjan.top/animals/cats/manja-vitolic-gKXKBY-C-Dk-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_264089_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Dogs</title>
-      <link>http://localhost:1313/animals/dogs/</link>
+      <link>https://example-gallery.easonjan.top/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0800</pubDate><author>user@example.com (Your Name)</author>
-      <guid>http://localhost:1313/animals/dogs/</guid><media:content url="http://localhost:1313/animals/dogs/milli-2l0CWTpcChI-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_236987_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example-gallery.easonjan.top/animals/dogs/</guid><media:content url="https://example-gallery.easonjan.top/animals/dogs/milli-2l0CWTpcChI-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_236987_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/animals/dogs/milli-2l0CWTpcChI-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_236987_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example-gallery.easonjan.top/animals/dogs/milli-2l0CWTpcChI-unsplash_hu5459c0360c2b0cb7a147d2df0eb350ca_236987_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
